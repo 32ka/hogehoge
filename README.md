@@ -2,4 +2,3 @@ hogehoge
 ========
 
 hogehoge
-hogehoge
